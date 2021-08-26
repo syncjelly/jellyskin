@@ -1,0 +1,15 @@
+#loginPage {
+background: linear-gradient(-60deg, #261C2C, #3E2C41, #5C527F, #6E85B2);
+background-size: 100% 100%;
+animation: gradient 3s ease infinite;
+}
+@keyframes gradient {
+0% {
+background-position: 0% 50%;
+}
+50% {
+background-position: 100% 50%;
+}
+100% {
+background-position: 0% 50%;
+}
